@@ -1,6 +1,6 @@
 # 🌟 DesignStore – Template Manager Website
 
-A fully responsive PHP-based **Template Manager Web App** for digital creatives, built under the **Saarzo** brand. Easily manage, upload, and display your **Canva templates, posters, resumes, brand kits**, and more through a sleek admin interface.
+A fully responsive PHP-based **Template Manager Web App** for digital creatives, built under the **Templates store** brand. Easily manage, upload, and display your **Canva templates, posters, resumes, brand kits**, and more through a sleek admin interface.
 
 ---
 
